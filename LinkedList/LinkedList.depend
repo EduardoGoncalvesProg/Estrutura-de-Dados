@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1620249051 source:c:\users\microsoft gabriel\desktop\edu\semestres\terceiro semestre\estrutura de dados exercicios\linkedlist\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1620222885 c:\users\microsoft gabriel\desktop\edu\semestres\terceiro semestre\estrutura de dados exercicios\linkedlist\linkedlist.h
+
+1620247507 source:c:\users\microsoft gabriel\desktop\edu\semestres\terceiro semestre\estrutura de dados exercicios\linkedlist\main.cpp
+	<iostream>
+	<clocale>
+	"LinkedList.h"
+
